@@ -1,0 +1,1 @@
+export type MentionType = 'channel' | '?channel' | 'guildMember' | '?guildMember' | 'role' | '?role' | 'number' | '?number' | 'string' | '?string';

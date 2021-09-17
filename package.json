@@ -1,0 +1,30 @@
+{
+  "name": "discord-inversify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamGor/discord-inversify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamGor/discord-inversify/issues"
+  },
+  "homepage": "https://github.com/KamGor/discord-inversify#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.25.0",
+    "eslint-plugin-import": "^2.22.1",
+    "inversify": "^5.0.5"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "reflect-metadata": "^0.1.13"
+  }
+}
